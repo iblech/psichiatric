@@ -33,6 +33,6 @@ Features
 Impressum
 ---------
 
-You can find the authors website on Musmehl_.
+You can find the author's website on Musmehl_.
 
 .. _Musmehl: https://sven.musmehl.de
